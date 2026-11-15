@@ -1,0 +1,44 @@
+# Asset inventory — 60 Minutes Fitness Studio
+
+Research pass: 16 November 2026. The user explicitly authorized using the attached logo and publicly available studio media from Google and Justdial for this project (“permission to use” confirmation, 16 Nov 2026). Google assets below were obtained from the public listing’s “By owner” gallery and saved at the resolution exposed by Google. The original uploaded files remain unchanged. Google notes that listing media may be subject to copyright; keep this permission record with the project. The Justdial gallery was viewable, but its media did not expose a direct download control usable in this session; its photos/video remain uncollected. No access or download protections were bypassed.
+
+| Asset filename | Source | Category | Resolution | Usage | Verification status | Permission status |
+|---|---|---|---|---|---|---|
+| `brand/60-minutes-fitness-studio-logo.png` | User attachment | Original logo | 1281 × 446 PNG | Header, footer and favicon | Owner-provided original | User provided for project use; unmodified |
+| `brand/60-minutes-fitness-studio-logo-transparent.png` | Derived from user attachment | Transparent logo | 1281 × 446 PNG | Header and footer | Exterior black background removed; enclosed black clock face preserved | User-provided source; local derivative for this project |
+| `trainers/master-godwin.png` | User attachment | Trainer portrait | PNG | Master Godwin's team profile | Supplied by the user for this profile | User provided for project use |
+| `gallery/interior-owner-google-jul-2026.jpg` | Google Maps listing, “By owner” gallery; first photo visible in owner filter | Studio / hero | 4032 × 3024 JPEG, ~2.2 MB | Hero background, service card, and gallery | Studio interior verified; Google capture Jul 2026; listing matched by name/address/phone | User-authorized project use; Google displays copyright notice |
+| `gallery/studio-floor-owner-google-mar-2022.jpg` | Google Maps listing, “By owner” gallery | Equipment / studio | 4080 × 3060 JPEG, ~709 KB | Service card, About section, and gallery | Studio signage/equipment visible; Google capture Mar 2022 | User-authorized project use; Google displays copyright notice |
+| `gallery/beach-group-owner-google-mar-2022.jpg` | Google Maps listing, “By owner” gallery | Group activity | 1024 × 768 JPEG | Service card and gallery | Group workout photo; Google capture Mar 2022 | User-authorized project use; people appear in the public owner-filtered image |
+| `gallery/brand-detail-justdial.jpg` | Justdial public studio photo gallery | Studio detail | 360 × 360 JPEG thumbnail | Gallery | Studio logo visible on an interior wall panel | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/womens-day-community-justdial.jpg` | Justdial public studio photo gallery | Community | 360 × 360 JPEG thumbnail | Service card and gallery | Women’s Day event image with studio-branded cake and gathering | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/community-moments-justdial.jpg` | Justdial public studio photo gallery | Community | 360 × 360 JPEG thumbnail | Gallery | Member and studio event collage | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/studio-community-wall-justdial.jpg` | Justdial public studio photo gallery | Studio | 360 × 360 JPEG thumbnail | Gallery | Studio wall and training-area detail | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/outdoor-group-justdial.jpg` | Justdial public studio photo gallery | Group activity | 360 × 360 JPEG thumbnail | Service card and gallery | Group outdoors after a fitness event | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/team-training-justdial.jpg` | Justdial public studio photo gallery | Group training | 360 × 360 JPEG thumbnail | Service card and gallery | Members and studio branding visible | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/cardio-floor-justdial.jpg` | Justdial public studio photo gallery | Equipment | 360 × 360 JPEG thumbnail | Service card and gallery | Cardio machines on the training floor | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/studio-equipment-justdial.jpg` | Justdial public studio photo gallery | Equipment | 360 × 360 JPEG thumbnail | Gallery | Training machines inside the studio | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/strength-floor-justdial.jpg` | Justdial public studio photo gallery | Equipment | 360 × 360 JPEG thumbnail | Service card and gallery | Strength training equipment and benches | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `gallery/mirrored-training-floor-justdial.jpg` | Justdial public studio photo gallery | Studio | 360 × 360 JPEG thumbnail | Service card and gallery | Mirrored training space with studio signage | User-authorized project use; downloaded thumbnail as served by Justdial |
+| `videos/` — pending | Google Maps and Justdial listings | Studio / training videos | Pending | Video gallery | Google listing exposes public playback; no direct downloadable video file/control found. Justdial shows 2 videos, but files were not directly downloadable | Keep original placeholders until owner supplies video files or an accessible original link |
+| `posters/` — pending | Justdial gallery | Promotions / event artwork | Pending | Poster showcase | Public thumbnails visible, but direct image download not accessible in this pass; old offer dates need verification | Owner to provide current originals and confirm offer validity |
+| `trainers/` — pending | Owner to provide | Trainer portraits | Pending | Trainer profiles | Names appear in supplied LyfSkills listing; no verified portrait downloaded | Request each subject’s approval |
+| `programs/` — pending | Owner to provide | Program imagery | Pending | Program cards | Existing gallery assets show studio and group activity; program-specific images not collected | User permission covers listing media; owner originals preferred |
+
+The site uses the user-provided original logo, three Google listing photos, and ten Justdial listing thumbnails for its real-studio gallery. The nine service cards use title-matched illustrative fitness imagery from Unsplash; the cards label these as “Fitness photo” so visitors do not mistake them for photos from this studio. Source pages identify these images as free under the Unsplash License (or, for the exercise-class image, Public Domain and Unsplash License). No AI-generated photos are used.
+
+## Illustrative service-card photos
+
+These photos illustrate the activity named on each card and are not evidence that the activity is currently offered at this studio. The service copy retains its availability caveats.
+
+| Service | Local asset | Photographer | Unsplash source | License noted on page |
+|---|---|---|---|---|
+| Group training | `programs/group-training.jpg` | Geert Pieters | [Group of people in gym while exercising](https://unsplash.com/photos/group-of-people-in-gym-while-exercising-3RnkZpDqsEI) | Unsplash License |
+| One-to-one coaching | `programs/personal-coaching.jpg` | Vitaly Gariev | [Man teaching woman weightlifting in gym](https://unsplash.com/photos/man-teaching-woman-weightlifting-in-gym-KcEoH5nbdOU) | Unsplash License |
+| Zumba | `programs/zumba.jpg` | Davide Aracri | [A woman dancing in a dimly lit studio](https://unsplash.com/photos/a-woman-dancing-in-a-dimly-lit-studio-HsFnQGokX8w) | Unsplash License |
+| Aerobics | `programs/aerobics.jpg` | Centre for Ageing Better | [A group of older women dancing in a room](https://unsplash.com/photos/a-group-of-older-women-dancing-in-a-room-XDH1y3RTYyI) | Public Domain and Unsplash License |
+| CrossFit | `programs/crossfit.jpg` | Mike Cox | [A group of people doing exercises in a gym](https://unsplash.com/photos/a-group-of-people-doing-exercises-in-a-gym-j07Ui8oTADE) | Unsplash License |
+| Yoga | `programs/yoga.jpg` | Photo Genius | [People doing yoga inside gym](https://unsplash.com/photos/people-doing-yoga-inside-gym-kufLAiPoIlI) | Unsplash License |
+| Strength training | `programs/strength-training.jpg` | Victor Freitas | [Person lifting barbell in gym](https://unsplash.com/photos/person-lifting-barbell-in-gym-vqDAUejnwKw) | Unsplash License |
+| Weight management | `programs/weight-management.jpg` | Rodrigo Rodrigues | [Woman running on a treadmill in a gym](https://unsplash.com/photos/woman-running-on-a-treadmill-in-a-gym-RLXaEp_Cdhw) | Unsplash License |
+| Cardio equipment | `programs/cardio-equipment.jpg` | Palak Pitroda | [Modern gym with treadmills and exercise equipment](https://unsplash.com/photos/modern-gym-with-treadmills-and-exercise-equipment-M60S0E3XuM8) | Unsplash License |

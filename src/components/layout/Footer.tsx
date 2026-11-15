@@ -1,0 +1,4 @@
+import { Mail, MessageCircle } from 'lucide-react';
+import { InstagramIcon, FacebookIcon } from '../ui/SocialIcons';
+import { siteConfig } from '../../data/siteConfig';
+export function Footer(){return <footer className="footer"><a className="wordmark footer-mark" href="/" aria-label="60 Minutes Fitness Studio home"><img src="/assets/brand/60-minutes-fitness-studio-logo-transparent.png" alt="60 Minutes Fitness Studio" /></a><p>Make time move.</p><div><a href={siteConfig.instagram} target="_blank" rel="noreferrer"><InstagramIcon width={16} height={16}/> Instagram</a><a href={siteConfig.facebook} target="_blank" rel="noreferrer"><FacebookIcon width={16} height={16}/> Facebook</a><a href={siteConfig.whatsappHref} target="_blank" rel="noreferrer"><MessageCircle size={16}/> WhatsApp</a><a href={siteConfig.emailHref}><Mail size={16}/> Email</a></div><small>© {new Date().getFullYear()} 60 Minutes Fitness Studio · Perambur, Chennai</small></footer>;}
